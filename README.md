@@ -17,7 +17,7 @@ ALL cyber-security-practice, include exploit loophole , web attack ,cryptographi
 > - `sudo netwox 105 -h "www.qq.com" -H "1.2.3.4" -a "ns.cse04xr.com" -A "1.2.3.5" -f "src host IP" -d docker0 -T 600 `
 - 远程DNS缓存中毒攻击
 > - dns上使得`ns.xr.net`指向攻击机 `172.17.0.1`
-> - 在user 中dig www.example.com
+> - 在user 中`dig www.example.com`
 > - `udp.c`
 > - 观察dns缓存
 
