@@ -1,25 +1,53 @@
 # Cyber-security-practice
 ALL cyber-security-practice, include exploit loophole , web attack ,cryptographic, system explotation, developing tools and so on
+
 ## Web
-- ### [TCP-Attack 😵](./Web/TCP-attack/)
-- ### [DNS-Attack 😋](./Web/DNS-attack/)
-- ### [CSRF-Attack 🙃](./Web/CSRF-attack/)
-- ### [XSS-Attack 🙃](./Web/XSS-attack/)
+
+<details>
+    <summary><strong><a href="./Web/TCP-attack/" >TCP-Attack 😵</a></strong></summary>
+</details>
+<details>
+    <summary><strong><a href="./Web/DNS-attack/" >DNS-Attack 😋</a></strong></summary>
+</details>
+<details>
+    <summary><strong><a href="./Web/CSRF-attack/" >CSRF-Attack 🙃</a></strong></summary>
+</details>
+
+<details>
+    <summary><strong><a href="./Web/XSS-attack/">XSS-Attack 🙃</a></strong></summary>
+</details>
+ 
 ## Reverse
-- ### [Experiment in HUST-CSE](./Reverse/Experiments-HUST/)
-    - #### [Experiment1 ✅](./Reverse/Experiments-HUST/)
-    - #### [Experiment2 ✅](./Reverse/Experiments-HUST/)
-    - #### [Experiment3 ✅](./Reverse/Experiments-HUST/)
+<details>
+    <summary><strong><a href="./Reverse/Experiments-HUST/" >Experiment in HUST-CSE</a></strong></summary>
+<ul>
+<strong>
+<li>Experiment1 ✅</li>
+<li>Experiment2 ✅</li>
+<li>Experiment3 ✅</li>
+</strong>
+</ul>
+</details>
+  
 ## Pwn
-- ### [FormatString-Attack](./Pwn/FormatString-Attack/)
-    - #### [Change var value](./Pwn/FormatString-Attack/)
-    - #### [ShellCode Injection](./Pwn/FormatString-Attack/)
-    - #### [Ret2Lib Hack](./Pwn/FormatString-Attack/)
-    - #### [GOT-Table Hack](./Pwn/FormatString-Attack/)
-- ### [AppArmor](./Pwn/Apparmor/)
-    - #### [Chroot](./Pwn/Apparmor/)
-    - #### [Seccomp](./Pwn/Apparmor/)
-    - #### [AppArmor](./Pwn/Apparmor/)
+<details>
+    <summary><strong><a href="./Pwn/FormatString-Attack/" >FormatString-Attack</a></strong></summary>
+    <ul><strong>
+    <li>Change var value</li>
+    <li>ShellCode Injection</li>
+    <li>Ret2Lib Hack</li>
+    <li>GOT-Table Hack</li>
+    </strong></ul>
+</details>
+<details>
+    <summary><strong><a href="./Pwn/Apparmor/" >AppArmor😋</a></strong></summary>
+    <ul><strong>
+    <li>Chroot</li>
+    <li>Seccomp</li>
+    <li>AppArmor</li>
+</strong></ul>
+</details>
+
 
 
 
