@@ -2,11 +2,6 @@
 ALL cyber-security-practice, include exploit loophole , web attack ,cryptographic, system explotation, developing tools and so on
 
 ## Web
-<style>
-    a:link, a:visited, a:hover, a:active {
-        text-decoration: none; 
-    }
-</style>
 <details>
     <summary><strong><a href="./Web/TCP-attack/" >TCP-Attack 😵</a></strong></summary>
 </details>
